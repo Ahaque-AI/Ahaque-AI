@@ -17,7 +17,7 @@
 
 - A Local-First AI Agent that can work with your data privately on-device and still connect to powerful models when needed. I will release it open-source soon.
 
-## Proof Points (high impact)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PnHnfmB1nmJbUI75LzynO0RBDJNc8htn/view?usp=sharing](https://drive.google.com/file/d/1PnHnfmB1nmJbUI75LzynO0RBDJNc8htn/view?usp=sharing)
 
 - Deployed CPU-only INT8 LLM inference on AKS and stabilized workers to prevent lock contention and ONNX OOM failures.
 - Built multi-tenant RAG with pgvector and token-reduction strategies to keep sessions fast and cost-efficient.
