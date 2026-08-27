@@ -31,7 +31,7 @@ Currently exploring deployment best practices and multi-agent orchestration patt
 <td>
 <a href="https://github.com/Ahaque-AI/Axiom"><img align="left" src="https://github.com/Ahaque-AI/Axiom/raw/main/logo/logo.svg" width="80"></a>
 
-**[Axiom](ComingSoon)** — Local-first RAG benchmarking engine
+**[Axiom](ComingSoon)** — Local-first RAG benchmarking engine (Active Development ComingSoon as OSS)
 
 Build verifiable ground truth from your documents. Benchmark RAG configurations. See which architecture actually works — and why.
 
