@@ -25,22 +25,7 @@ I'm a data scientist and ML engineer focused on **RAG systems**, **knowledge gra
 
 Currently exploring deployment best practices and multi-agent orchestration patterns.
 
-### Featured project
-
-<table>
-<td>
-<a href="https://github.com/Ahaque-AI/Axiom"><img align="left" src="https://github.com/Ahaque-AI/Axiom/raw/main/logo/logo.svg" width="80"></a>
-
-**[Axiom](ComingSoon)** — Local-first RAG benchmarking engine (Active Development ComingSoon as OSS)
-
-Build verifiable ground truth from your documents. Benchmark RAG configurations. See which architecture actually works — and why.
-
-`Python` `FastAPI` `Next.js` `PostgreSQL` `pgvector` `LangGraph` `Docker`
-
-</td>
-</table>
-
-### Other projects
+### Projects
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
