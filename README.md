@@ -154,7 +154,7 @@ Graph-augmented causal reasoning over news:
 │ AI Therapy Service   │ Faster-Whisper + Phi-3.5 INT8 on AKS · 300+ sess/day│
 │ Student Companion    │ Multi-tenant RAG · pgvector · 90% token reduction   │
 │ Fraud Detection      │ Kafka real-time pipeline · STR auto-filing to reg.  │
-│ GraphRAG-Causal      │ Causal GraphRAG · BERT-Large parity on news corpus │
+│ GraphRAG-Causal      │ Causal GraphRAG · BERT-Large parity on news corpus  │
 └──────────────────────┴─────────────────────────────────────────────────────┘
 ```
 
