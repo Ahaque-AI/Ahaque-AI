@@ -27,9 +27,6 @@
   <a href="mailto:abdulhaque.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Ahaque-AI?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Repos-238636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
 <!-- High-contrast status strip: white text on solid saturated fills -->
@@ -52,12 +49,6 @@
   </a>
   <a href="https://github.com/Ahaque-AI?tab=repositories">
     <img src="https://img.shields.io/github/stars/Ahaque-AI?label=Stars&style=for-the-badge&logo=github&labelColor=8957E5&color=FFFFFF" alt="GitHub stars" />
-  </a>
-  <a href="https://github.com/Ahaque-AI?tab=repositories">
-    <img src="https://img.shields.io/github/repos/Ahaque-AI?label=Public%20Repos&style=for-the-badge&logo=github&labelColor=238636&color=FFFFFF" alt="Public repos" />
-  </a>
-  <a href="https://github.com/Ahaque-AI">
-    <img src="https://img.shields.io/github/last-commit/Ahaque-AI?label=Last%20Commit&style=for-the-badge&logo=github&labelColor=FFB000&color=FFFFFF" alt="Last commit" />
   </a>
 </p>
 
