@@ -40,7 +40,6 @@
   <img src="https://img.shields.io/badge/FOCUS-GraphRAG%20%26%20Agents-FFFFFF?style=for-the-badge&logo=openai&logoColor=black&labelColor=8957E5" alt="Focus GraphRAG and Agents" />
   <img src="https://img.shields.io/badge/LOCATION-Islamabad%2C%20PK-FFFFFF?style=for-the-badge&logo=googlemaps&logoColor=black&labelColor=1F6FEB" alt="Location Islamabad Pakistan" />
   <img src="https://img.shields.io/badge/TIMEZONE-UTC%2B5-FFFFFF?style=for-the-badge&logo=clockify&logoColor=black&labelColor=3FB950" alt="Timezone UTC+5" />
-  <img src="https://komarev.com/ghpvc/?username=Ahaque-AI&label=PROFILE+VIEWS&color=1F6FEB&style=for-the-badge&labelColor=0D1117" alt="Profile views" />
 </p>
 
 <p align="center">
